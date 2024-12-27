@@ -30,7 +30,7 @@
     }</string>
     <string name="show_dev_on_cm">개발자 설정이 활성화되었습니다.</string>
     <string name="show_dev_already_cm">이미 개발자 설정이 활성화되어 있습니다.</string>
-    <string name="status_bar_double_tap_to_sleep_title">두드려 화면 끄기</string>
+    <string name="status_bar_double_tap_to_sleep_title">두번 탭하여 화면 끄기</string>
     <string name="status_bar_double_tap_to_sleep_summary">상태 표시줄이나 잠금 화면을 두 번 두드려 화면 끄기</string>
     <string name="high_touch_polling_rate_title">높은 터치 응답 속도 사용</string>
     <string name="high_touch_polling_rate_summary">터치 응답 속도 높이기</string>
